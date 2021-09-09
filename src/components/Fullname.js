@@ -3,7 +3,7 @@ import React from 'react'
 export default function Fullname() {
     return (
         <div>
-            <p>ala ben cheikh</p>
+            <p>Fullname:</p>
         </div>
     )
 }
